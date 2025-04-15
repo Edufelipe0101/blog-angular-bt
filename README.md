@@ -1,59 +1,79 @@
-# AngularBlog
+Fut24h Blog ⚽📰
+Projeto desenvolvido durante o Decola Tech 2025 (Bootcamp Avanade em parceria com a DIO)
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.8.
+Descrição do Projeto
+O Fut24h Blog é uma aplicação web desenvolvida em Angular que fornece informações atualizadas sobre futebol, incluindo notícias, estatísticas e resultados de jogos. O objetivo é oferecer uma plataforma dinâmica e responsiva para os fãs de futebol acompanharem as últimas novidades do esporte.
 
-## Development server
+Tecnologias Utilizadas 🛠️
+Angular (v19.1.8)
 
-To start a local development server, run:
+TypeScript
 
-```bash
+HTML5 & CSS3
+
+[Outras bibliotecas, se aplicável]
+
+Como Executar o Projeto ▶️
+Pré-requisitos
+Node.js (v18+)
+
+Angular CLI (v19.1.8)
+
+Instalação
+Clone o repositório:
+
+bash
+Copy
+git clone [URL_DO_REPOSITÓRIO]
+Instale as dependências:
+
+bash
+Copy
+npm install
+Servidor de Desenvolvimento
+Execute o comando abaixo e acesse http://localhost:4200:
+
+bash
+Copy
 ng serve
-```
+Build para Produção
+Gere os arquivos otimizados para deploy:
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
-
-## Code scaffolding
-
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
-
-```bash
-ng generate component component-name
-```
-
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
+bash
+Copy
 ng build
-```
+Funcionalidades Principais ✨
+✅ Listagem de notícias sobre futebol
+✅ Filtros por liga/campeonato
+✅ Design responsivo
+✅ [Adicione outras funcionalidades relevantes]
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+Próximos Passos (Roadmap) 🚀
+Implementar autenticação de usuários
 
-## Running unit tests
+Adicionar comentários nas notícias
 
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
+Integração com API de dados esportivos
 
-```bash
-ng test
-```
+Contribuição 🤝
+Contribuições são bem-vindas! Siga os passos:
 
-## Running end-to-end tests
+Faça um fork do projeto
 
-For end-to-end (e2e) testing, run:
+Crie uma branch (git checkout -b feature/nova-funcionalidade)
 
-```bash
-ng e2e
-```
+Commit suas alterações (git commit -m 'Adiciona nova funcionalidade')
 
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
+Push para a branch (git push origin feature/nova-funcionalidade)
 
-## Additional Resources
+Abra um Pull Request
 
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+Contato 📩
+Eduardo Felipe de Souza
+
+LinkedIn: https://www.linkedin.com/in/eduardo-felipe-tech/
+
+E-mail: https://github.com/Edufelipe0101
+
+Agradecimentos 🙏
+Agradeço à Avanade e à DIO pelo suporte no Bootcamp Decola Tech 2025, que proporcionou o desenvolvimento deste projeto.
